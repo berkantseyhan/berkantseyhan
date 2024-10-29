@@ -1,6 +1,6 @@
 ## Hi there 👋, thus is Berkant
 
-# 💫 About Me:
+# About Me:
 🌍 I'm based in Istanbul, Turkey<br>🌱 I’m currently learning more about data analytics<br>✉️ You can contact me at berkantsyhn at gmail dot com<br>⚡ I love trumpet ( but playing piano and guitar )
 
 
